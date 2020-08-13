@@ -18,4 +18,4 @@ Viewable on here https://my-calorie-tracker.netlify.app/
 
 # Screenshot
 
-![alt text](https://github.com/nadbad/Track-My-Calories/blob/master/Project%203.jpg)
+![alt text](https://github.com/nadbad/Track-My-Calories/blob/master/Project%201.jpg)
