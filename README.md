@@ -18,4 +18,4 @@ Viewable on here https://my-calorie-tracker.netlify.app/
 
 # Screenshot
 
-![alt text](https://github.com/nadbad/My-Weather/blob/master/Project%202.jpg)
+![alt text](https://github.com/nadbad/My-Weather/blob/master/Project%203.jpg)
