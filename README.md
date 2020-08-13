@@ -1,15 +1,13 @@
-# My-Weather
+# Track My Calories
 A weather app created using the OpenWeatherMap API.
 
-Viewable on here https://mangadods.netlify.app/
+Viewable on here https://my-calorie-tracker.netlify.app/
 
 # Technologies Used
 
 -HTML & CSS
 
 -JavaScript
-
--OpenWeatherMap API
 
 # Features
 
