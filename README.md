@@ -1,5 +1,7 @@
 # Track My Calories
-A weather app created using the OpenWeatherMap API.
+A web app that tracks your calories for the day
+by simply entering the foods and the number of calories that those
+foods contain.
 
 Viewable on here https://my-calorie-tracker.netlify.app/
 
