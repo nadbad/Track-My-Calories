@@ -182,6 +182,8 @@ const UICtrl = (function () {
             document.querySelector(UISelectors.itemList).style.display = 'block';
             const li = document.createElement('li');
             li.className = 'collection-item';
+            li.style.backgroundColor = 'rgb(30, 30, 30)'
+            li.style.border = 'rgb(30, 30, 30) solid 1px'
             li.id = `item-${item.id}`;
             li.innerHTML = `<strong>${item.name}: </strong> <em>${item.calories} Calories</em>
         <a href="#" class="secondary-content">

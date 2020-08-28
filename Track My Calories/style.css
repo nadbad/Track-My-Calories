@@ -1,0 +1,21 @@
+.nav-wrapper {
+    background-color: rgb(30, 30, 30);
+}
+
+.clear-btn {
+    background-color: rgb(160, 160, 160);
+}
+
+.container {
+    color: rgb(199, 199, 199); 
+    background-color: rgb(30, 30, 30);
+}
+
+.card-content {
+    background-color: rgb(30, 30, 30);
+}
+
+#item-list {
+    background-color: rgb(30, 30, 30);
+    border: rgb(30, 30, 30) 1px solid;
+}
