@@ -17,6 +17,8 @@ Viewable on here https://my-calorie-tracker.netlify.app/
 
 -Unqiue design
 
+-Dark Mode Enabled
+
 
 # Screenshot
 
